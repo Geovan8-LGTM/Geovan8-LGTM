@@ -10,3 +10,4 @@
 Geovan8-LGTM/Geovan8-LGTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+git clone git@github.com:googlemaps-samples/android-samples.git
